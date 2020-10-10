@@ -62,7 +62,6 @@ public class Piano extends JFrame implements ActionListener, KeyListener {
     // 背景Panel
     JPanel bgPanel = new JPanel();
     bgPanel.setBounds(0, 0, width, height);
-    bgPanel.setBackground(Color.white);
     bgPanel.setLayout(null);
     layeredPane.add(bgPanel);
 
