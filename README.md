@@ -13,22 +13,9 @@
     F12 F12 F11 F10 F9 F8 F7 F6 F5 F4 F3 F2 F1 Backspace  `~  -_  +=   [{  ]}  \|  ;:  '"  Enter  ,<  .>  /?  空格键 	
 			
 ```		
-						《锦鲤抄》
-	9 G G G G E C E G 				(蝉声陪伴着行云流浪)
-	9 E E E E C B B C B 7 			(回忆开始后安静遥望远方)
-	9 G G G G E C E G				(荒草覆没的古井枯塘)
-	J E L J G E 					(匀散一缕过往)
-	9 G G G G E C E G				(晨曦惊扰了陌上新桑)
-	9 E E E E C B B C B 7 			(风卷起庭前落花穿过回廊)
-	9 G G G G E C E G				(浓墨追逐着情绪流淌)
-	J E N O N L						(染我素衣白裳)
-	E G J G  E G J G				(阳光微凉 琴弦微凉)
-	E G J B  B C B 9				(风声疏狂 人间仓皇)
-	E G J G  E G J G				(呼吸微凉 心事微凉)
-	E G J N  N O N L				(流年匆忙 对错何妨)
-	L N O N L J G L J E G			(你在尘世中辗转了千百年)
-	L N O N L J G L J N L 			(却只让我看你最后一眼)
-	L N O N L J G L J E G			(火光描摹容颜燃尽了时间)
-	G E G J G  E G J G				(别留我一人 孑然一身)
-	E G J O N J L					(凋零在梦境里面)
+						点歌的人
+	66 63 33 55 55 2777 613 66 61 11 11
+    22 27 61 3 66 65 33 55 55 277 613 
+    66 61 11 11 22 277 61 3 66 665 33 31
+    22 5433 6 66 665 33 31 22 55 6
 ```
