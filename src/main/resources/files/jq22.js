@@ -108,7 +108,8 @@ function setOriginColor(noteNumber) {
 }
 
 document.onkeydown = function (e) {
-    var pressEvent = e || window.event;
+    const {event} = window;
+    var pressEvent = e || event;
     var keyCode = '';
     if (pressEvent.keyCode) {
         keyCode = pressEvent.keyCode;
