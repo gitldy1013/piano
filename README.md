@@ -1,5 +1,7 @@
 # 钢琴标准键盘图对应键位：
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitldy1013/piano)
+
 >* 中音区从左到右:
     
     0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
